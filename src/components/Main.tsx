@@ -28,6 +28,8 @@ const Main: FC<MainProps> = (props) => {
           >
             By{" "}
             <Image
+              // FIXME: comment/re-comment to reproduce the issue: Compiler client unexpectedly exited with code: null and signal: SIGTERM
+              // src="login_background_png"
               src={login_background_png}
               alt="Vercel Logo"
               className="dark:invert"
