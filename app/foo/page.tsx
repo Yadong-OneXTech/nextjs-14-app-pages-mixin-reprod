@@ -11,6 +11,46 @@ export default async function Home() {
     <>
     <Main />
     <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
+    <AgGridTable />
     </>
   );
 }
